@@ -1,2 +1,2 @@
 # plasmid_partitioning
-Simulation and analysis code for "Random plasmid partitioning reduces the evolutionary stability of synthetic genetic circuits" biorxiv
+Simulation and analysis code for "Quantitative characterization of random partitioning in the evolution of plasmid-encoded traits" biorxiv
